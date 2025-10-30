@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 087314b75ced6e7418f6e66456b8442a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5401575592090104258
+    second: Hit_Block_Shadow_112_0
+  - first:
+      213: 5128049808911234968
+    second: Hit_Block_Shadow_112_1
+  - first:
+      213: -9092313184577996462
+    second: Hit_Block_Shadow_112_2
+  - first:
+      213: 7304366304797104304
+    second: Hit_Block_Shadow_112_3
+  - first:
+      213: -1022513495208972919
+    second: Hit_Block_Shadow_112_4
+  - first:
+      213: 1095972787625329716
+    second: Hit_Block_Shadow_112_5
+  - first:
+      213: 8379998957064416694
+    second: Hit_Block_Shadow_112_6
+  - first:
+      213: 130786551594070955
+    second: Hit_Block_Shadow_112_7
+  - first:
+      213: 3302348844324822530
+    second: Hit_Block_Shadow_112_8
+  - first:
+      213: -4330338818191086287
+    second: Hit_Block_Shadow_112_9
+  - first:
+      213: -7551385681751573232
+    second: Hit_Block_Shadow_112_10
+  - first:
+      213: -7886972450509651376
+    second: Hit_Block_Shadow_112_11
+  - first:
+      213: -8993335428899241534
+    second: Hit_Block_Shadow_112_12
+  - first:
+      213: -393029227423882915
+    second: Hit_Block_Shadow_112_13
+  - first:
+      213: -7679992364194830165
+    second: Hit_Block_Shadow_112_14
+  - first:
+      213: -7053365509130735741
+    second: Hit_Block_Shadow_112_15
+  - first:
+      213: -7031120572445834433
+    second: Hit_Block_Shadow_112_16
+  - first:
+      213: 278224780636815570
+    second: Hit_Block_Shadow_112_17
+  - first:
+      213: 3995071855882941898
+    second: Hit_Block_Shadow_112_18
+  - first:
+      213: 7715406071719350576
+    second: Hit_Block_Shadow_112_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 593
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e8c062e9fb905b0800000000000000
+      internalID: -5401575592090104258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_1
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 593
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f9a2b12e7a2740800000000000000
+      internalID: 5128049808911234968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_2
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 592
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b0aee45d91d180800000000000000
+      internalID: -9092313184577996462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 592
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b893ca34725e5560800000000000000
+      internalID: 7304366304797104304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 591
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98da604c46d4fc1f0800000000000000
+      internalID: -1022513495208972919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 411
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43407e1917da53f00800000000000000
+      internalID: 1095972787625329716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 411
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bde7fdf6acbb4470800000000000000
+      internalID: 8379998957064416694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 410
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3b92dfca5a0d100800000000000000
+      internalID: 130786551594070955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 410
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e176ef6cc44dd20800000000000000
+      internalID: 3302348844324822530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 410
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da2a8b9cb87e3c0800000000000000
+      internalID: -4330338818191086287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 231
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df93d3bb6143790800000000000000
+      internalID: -7551385681751573232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 231
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052841ed758db8290800000000000000
+      internalID: -7886972450509651376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_12
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 231
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1868e7311413380800000000000000
+      internalID: -8993335428899241534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 231
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51ad01000eab8af0800000000000000
+      internalID: -393029227423882915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_14
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 232
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8647692af2b6590800000000000000
+      internalID: -7679992364194830165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_15
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f254590796d1e90800000000000000
+      internalID: -7053365509130735741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 53
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33cc6287117c6e90800000000000000
+      internalID: -7031120572445834433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 53
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d08191c6f37cd300800000000000000
+      internalID: 278224780636815570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 53
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac53016afa8517730800000000000000
+      internalID: 3995071855882941898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Block_Shadow_112_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 53
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03159bab1f0a21b60800000000000000
+      internalID: 7715406071719350576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

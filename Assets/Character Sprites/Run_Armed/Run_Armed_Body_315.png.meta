@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 812a00a2a43b45b47ab3942391df543b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2553028716166180693
+    second: Run_Armed_Body_315_0
+  - first:
+      213: 4471200366196544718
+    second: Run_Armed_Body_315_1
+  - first:
+      213: -2664707241102121182
+    second: Run_Armed_Body_315_2
+  - first:
+      213: 6796774112868622105
+    second: Run_Armed_Body_315_3
+  - first:
+      213: -455106041818879250
+    second: Run_Armed_Body_315_4
+  - first:
+      213: 8502376777311968872
+    second: Run_Armed_Body_315_5
+  - first:
+      213: 4859491900152038922
+    second: Run_Armed_Body_315_6
+  - first:
+      213: -3246093466101588509
+    second: Run_Armed_Body_315_7
+  - first:
+      213: -3731628727007433637
+    second: Run_Armed_Body_315_8
+  - first:
+      213: 7424322962857731820
+    second: Run_Armed_Body_315_9
+  - first:
+      213: 5631278867578296739
+    second: Run_Armed_Body_315_10
+  - first:
+      213: -9150485440124176107
+    second: Run_Armed_Body_315_11
+  - first:
+      213: 2799807621754610903
+    second: Run_Armed_Body_315_12
+  - first:
+      213: -947331313821603692
+    second: Run_Armed_Body_315_13
+  - first:
+      213: 8281380471617778623
+    second: Run_Armed_Body_315_14
+  - first:
+      213: -7482159277077087732
+    second: Run_Armed_Body_315_15
+  - first:
+      213: -1799060543086947801
+    second: Run_Armed_Body_315_16
+  - first:
+      213: -8585592945568645997
+    second: Run_Armed_Body_315_17
+  - first:
+      213: 3868581612538476738
+    second: Run_Armed_Body_315_18
+  - first:
+      213: -1564059428225331627
+    second: Run_Armed_Body_315_19
+  - first:
+      213: 911441358379376160
+    second: Run_Armed_Body_315_20
+  - first:
+      213: -5231290968981264914
+    second: Run_Armed_Body_315_21
+  - first:
+      213: 4915259180447108327
+    second: Run_Armed_Body_315_22
+  - first:
+      213: -7256798703324999786
+    second: Run_Armed_Body_315_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 596
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fe470471e2e6320800000000000000
+      internalID: 2553028716166180693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 596
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4ddba2b05ec0e30800000000000000
+      internalID: 4471200366196544718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 598
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22762b7e1ee050bd0800000000000000
+      internalID: -2664707241102121182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 599
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fda187b0ef25e50800000000000000
+      internalID: 6796774112868622105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_4
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 597
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea604a57732fa9f0800000000000000
+      internalID: -455106041818879250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 595
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ed536a1a28ef570800000000000000
+      internalID: 8502376777311968872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 413
+        width: 71
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a064371f222607340800000000000000
+      internalID: 4859491900152038922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 412
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed5c4de03f83f2d0800000000000000
+      internalID: -3246093466101588509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 411
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c241d9177963cc0800000000000000
+      internalID: -3731628727007433637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_9
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 409
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce629e2266e780760800000000000000
+      internalID: 7424322962857731820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_10
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 408
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a91b255b42562e40800000000000000
+      internalID: 5631278867578296739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_11
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 408
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b30b39f1f20180800000000000000
+      internalID: -9150485440124176107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 229
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46d1ea23aead620800000000000000
+      internalID: 2799807621754610903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 230
+        width: 75
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4982f0370376ad2f0800000000000000
+      internalID: -947331313821603692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 232
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb372ac89af5de270800000000000000
+      internalID: 8281380471617778623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 234
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a3de897c70a2890800000000000000
+      internalID: -7482159277077087732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_16
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 236
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72291e7c7f37807e0800000000000000
+      internalID: -1799060543086947801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_17
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 238
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cf74554b8d9d880800000000000000
+      internalID: -8585592945568645997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 58
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b6ffda76ffa530800000000000000
+      internalID: 3868581612538476738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 57
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e470d9c385b4ae0800000000000000
+      internalID: -1564059428225331627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_20
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 58
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e5dcf161716ac00800000000000000
+      internalID: 911441358379376160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_21
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 58
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a92d8498b667b0800000000000000
+      internalID: -5231290968981264914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 57
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec0785be22863440800000000000000
+      internalID: 4915259180447108327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Body_315_23
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 56
+        width: 66
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f4cc9070caa4b90800000000000000
+      internalID: -7256798703324999786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

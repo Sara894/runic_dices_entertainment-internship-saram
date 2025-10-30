@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 2dea23b5d97cefc49b0928e4d074f195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3538007618855010413
+    second: Idle_Transition_To_Block_Body_045_0
+  - first:
+      213: -418272778372618652
+    second: Idle_Transition_To_Block_Body_045_1
+  - first:
+      213: -2056587807902867196
+    second: Idle_Transition_To_Block_Body_045_2
+  - first:
+      213: -3564335351288917987
+    second: Idle_Transition_To_Block_Body_045_3
+  - first:
+      213: -5023736730951159166
+    second: Idle_Transition_To_Block_Body_045_4
+  - first:
+      213: -9172921998064834552
+    second: Idle_Transition_To_Block_Body_045_5
+  - first:
+      213: -8019054856833324828
+    second: Idle_Transition_To_Block_Body_045_6
+  - first:
+      213: 7279779677452817252
+    second: Idle_Transition_To_Block_Body_045_7
+  - first:
+      213: -1919882930894284544
+    second: Idle_Transition_To_Block_Body_045_8
+  - first:
+      213: 572507462988658558
+    second: Idle_Transition_To_Block_Body_045_9
+  - first:
+      213: 450433998417375534
+    second: Idle_Transition_To_Block_Body_045_10
+  - first:
+      213: 8213212855037000778
+    second: Idle_Transition_To_Block_Body_045_11
+  - first:
+      213: 8285273933795303933
+    second: Idle_Transition_To_Block_Body_045_12
+  - first:
+      213: -6410956749848299810
+    second: Idle_Transition_To_Block_Body_045_13
+  - first:
+      213: 2936187034973679390
+    second: Idle_Transition_To_Block_Body_045_14
+  - first:
+      213: -1294952999782341352
+    second: Idle_Transition_To_Block_Body_045_15
+  - first:
+      213: 8698712409679715778
+    second: Idle_Transition_To_Block_Body_045_16
+  - first:
+      213: -5726895270204124930
+    second: Idle_Transition_To_Block_Body_045_17
+  - first:
+      213: 4278989348537042532
+    second: Idle_Transition_To_Block_Body_045_18
+  - first:
+      213: 7194859451372027202
+    second: Idle_Transition_To_Block_Body_045_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 588
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f7589d0d876eec0800000000000000
+      internalID: -3538007618855010413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 589
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46662e9cf1ff13af0800000000000000
+      internalID: -418272778372618652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 590
+        width: 45
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401ec84f8488573e0800000000000000
+      internalID: -2056587807902867196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_3
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 590
+        width: 48
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d109e06f1efe88ec0800000000000000
+      internalID: -3564335351288917987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 590
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282f2926f0a184ab0800000000000000
+      internalID: -5023736730951159166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 410
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808aaf00b0c33b080800000000000000
+      internalID: -9172921998064834552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 410
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e82410381896b090800000000000000
+      internalID: -8019054856833324828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 410
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463dea5fb09f60560800000000000000
+      internalID: 7279779677452817252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 410
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009d5b575a43b55e0800000000000000
+      internalID: -1919882930894284544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_9
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 410
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77f2ba1184f1f700800000000000000
+      internalID: 572507462988658558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 230
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e213d66c553404600800000000000000
+      internalID: 450433998417375534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 230
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cf62183913bf170800000000000000
+      internalID: 8213212855037000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 230
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df12caadeb43bf270800000000000000
+      internalID: 8285273933795303933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 230
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed636ee7dc4b707a0800000000000000
+      internalID: -6410956749848299810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 230
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fa6bd3d8e6fb820800000000000000
+      internalID: 2936187034973679390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 50
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815a52f8b17670ee0800000000000000
+      internalID: -1294952999782341352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 50
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cddd3e49d808b870800000000000000
+      internalID: 8698712409679715778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 50
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef05e99181bf580b0800000000000000
+      internalID: -5726895270204124930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 50
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4660b353426026b30800000000000000
+      internalID: 4278989348537042532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Body_045_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 50
+        width: 35
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d34ef0d8649d360800000000000000
+      internalID: 7194859451372027202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

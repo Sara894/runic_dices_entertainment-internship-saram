@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: bfe171df1ba1ea24a9379552fac9a5ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4388923605770046330
+    second: Death_Armed_Body_225_0
+  - first:
+      213: -1024235698464928615
+    second: Death_Armed_Body_225_1
+  - first:
+      213: -707318200339651371
+    second: Death_Armed_Body_225_2
+  - first:
+      213: 109849170010534527
+    second: Death_Armed_Body_225_3
+  - first:
+      213: 6139316512769045103
+    second: Death_Armed_Body_225_4
+  - first:
+      213: -5086982772351206584
+    second: Death_Armed_Body_225_5
+  - first:
+      213: 3620397888145884183
+    second: Death_Armed_Body_225_6
+  - first:
+      213: -9064065247978973142
+    second: Death_Armed_Body_225_7
+  - first:
+      213: 6357735271477059445
+    second: Death_Armed_Body_225_8
+  - first:
+      213: 6203311694903851776
+    second: Death_Armed_Body_225_9
+  - first:
+      213: 6423128624725925363
+    second: Death_Armed_Body_225_10
+  - first:
+      213: -7580320509087241917
+    second: Death_Armed_Body_225_11
+  - first:
+      213: 8167219239491936766
+    second: Death_Armed_Body_225_12
+  - first:
+      213: -8006253098834236674
+    second: Death_Armed_Body_225_13
+  - first:
+      213: -3727125958933258882
+    second: Death_Armed_Body_225_14
+  - first:
+      213: 2842117005579405298
+    second: Death_Armed_Body_225_15
+  - first:
+      213: -3422233511594209518
+    second: Death_Armed_Body_225_16
+  - first:
+      213: -8736183221171340416
+    second: Death_Armed_Body_225_17
+  - first:
+      213: 1318947882628924626
+    second: Death_Armed_Body_225_18
+  - first:
+      213: -5679000870415101344
+    second: Death_Armed_Body_225_19
+  - first:
+      213: -3426145040052606259
+    second: Death_Armed_Body_225_20
+  - first:
+      213: -6112037489074106103
+    second: Death_Armed_Body_225_21
+  - first:
+      213: -5460069948214405511
+    second: Death_Armed_Body_225_22
+  - first:
+      213: 7511366967987852688
+    second: Death_Armed_Body_225_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 594
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b004414c698ec30800000000000000
+      internalID: 4388923605770046330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 594
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c49b21f0f29c1f0800000000000000
+      internalID: -1024235698464928615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 594
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4269528d91f26f0800000000000000
+      internalID: -707318200339651371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 594
+        width: 53
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f727955fc33468100800000000000000
+      internalID: 109849170010534527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_4
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 594
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f94347db333550800000000000000
+      internalID: 6139316512769045103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_5
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 594
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b797bde186769b0800000000000000
+      internalID: -5086982772351206584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 414
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714828492bc3e3230800000000000000
+      internalID: 3620397888145884183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_7
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 414
+        width: 47
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2810413ea8f53280800000000000000
+      internalID: -9064065247978973142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 414
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f9c507b863b3850800000000000000
+      internalID: 6357735271477059445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_9
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 414
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b35c5be17961650800000000000000
+      internalID: 6203311694903851776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_10
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 415
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9e67f379832950800000000000000
+      internalID: 6423128624725925363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_11
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 415
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3492f34c8aa4dc690800000000000000
+      internalID: -7580320509087241917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 236
+        width: 36
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef127a460aac75170800000000000000
+      internalID: 8167219239491936766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 232
+        width: 37
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6d1eb93314e090800000000000000
+      internalID: -8006253098834236674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_14
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 231
+        width: 38
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d55a000b6964cc0800000000000000
+      internalID: -3727125958933258882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 229
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f748afbb5a317720800000000000000
+      internalID: 2842117005579405298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_16
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 206
+        width: 99
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f4df2c0c8c180d0800000000000000
+      internalID: -3422233511594209518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_17
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 204
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bba5985a7d2c680800000000000000
+      internalID: -8736183221171340416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 104
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4c9557c18dd4210800000000000000
+      internalID: 1318947882628924626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 27
+        width: 103
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06216c70cc22031b0800000000000000
+      internalID: -5679000870415101344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_20
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 26
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaa2b21d33e370d0800000000000000
+      internalID: -3426145040052606259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_21
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 25
+        width: 99
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9011ed1694ead2ba0800000000000000
+      internalID: -6112037489074106103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_22
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 25
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97615ef8f4fe934b0800000000000000
+      internalID: -5460069948214405511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Body_225_23
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 25
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d480e57cbd3860800000000000000
+      internalID: 7511366967987852688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

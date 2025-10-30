@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: be81943e0d9e6b14f8eede1d93eea601
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6362670590167501439
+    second: Walk_Unarmed_Body_157_0
+  - first:
+      213: 730322636344237307
+    second: Walk_Unarmed_Body_157_1
+  - first:
+      213: 8039734892568758251
+    second: Walk_Unarmed_Body_157_2
+  - first:
+      213: -2181770437450123051
+    second: Walk_Unarmed_Body_157_3
+  - first:
+      213: -7046716258253882295
+    second: Walk_Unarmed_Body_157_4
+  - first:
+      213: 610089306651456341
+    second: Walk_Unarmed_Body_157_5
+  - first:
+      213: 8303970665407914969
+    second: Walk_Unarmed_Body_157_6
+  - first:
+      213: 6880337478472425955
+    second: Walk_Unarmed_Body_157_7
+  - first:
+      213: -6188137834615557040
+    second: Walk_Unarmed_Body_157_8
+  - first:
+      213: 614302431113508458
+    second: Walk_Unarmed_Body_157_9
+  - first:
+      213: 5134141722285047679
+    second: Walk_Unarmed_Body_157_10
+  - first:
+      213: 7981749220682981753
+    second: Walk_Unarmed_Body_157_11
+  - first:
+      213: -3537631060002858547
+    second: Walk_Unarmed_Body_157_12
+  - first:
+      213: 2088653045566414030
+    second: Walk_Unarmed_Body_157_13
+  - first:
+      213: 6290639211912219727
+    second: Walk_Unarmed_Body_157_14
+  - first:
+      213: -2783443396779400464
+    second: Walk_Unarmed_Body_157_15
+  - first:
+      213: 8547964496350440993
+    second: Walk_Unarmed_Body_157_16
+  - first:
+      213: 3785977309271379747
+    second: Walk_Unarmed_Body_157_17
+  - first:
+      213: 3844148709961124321
+    second: Walk_Unarmed_Body_157_18
+  - first:
+      213: 320950890017098876
+    second: Walk_Unarmed_Body_157_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 594
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7a42cdd03fbc4850800000000000000
+      internalID: 6362670590167501439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 594
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc99be7190a22a00800000000000000
+      internalID: 730322636344237307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_2
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 596
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7cfd7d940e29f60800000000000000
+      internalID: 8039734892568758251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 599
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8365eb85bc8b1e0800000000000000
+      internalID: -2181770437450123051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 600
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94cbec1f5e8053e90800000000000000
+      internalID: -7046716258253882295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 416
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5537934fdf8777800800000000000000
+      internalID: 610089306651456341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 415
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d327e8e251ad3370800000000000000
+      internalID: 8303970665407914969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 412
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1e72bab7edb7f50800000000000000
+      internalID: 6880337478472425955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_8
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 412
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054b592fc615f1aa0800000000000000
+      internalID: -6188137834615557040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_9
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 411
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66fd2f6ec0768800800000000000000
+      internalID: 614302431113508458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 230
+        width: 43
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fff4fc1b2204740800000000000000
+      internalID: 5134141722285047679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 230
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9716f0980aed4ce60800000000000000
+      internalID: 7981749220682981753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 233
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9142a4b4fc7eec0800000000000000
+      internalID: -3537631060002858547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_13
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 235
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc1608f0e26cfc10800000000000000
+      internalID: 2088653045566414030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_14
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 238
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ccb24b807dc4750800000000000000
+      internalID: 6290639211912219727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2ae8a5af83f59d0800000000000000
+      internalID: -2783443396779400464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 58
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e6e9d9b6870a670800000000000000
+      internalID: 8547964496350440993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 56
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4fc6cd4e7a8430800000000000000
+      internalID: 3785977309271379747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_18
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 55
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9420172e8295530800000000000000
+      internalID: 3844148709961124321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Unarmed_Body_157_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 54
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c80dd422f347400800000000000000
+      internalID: 320950890017098876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

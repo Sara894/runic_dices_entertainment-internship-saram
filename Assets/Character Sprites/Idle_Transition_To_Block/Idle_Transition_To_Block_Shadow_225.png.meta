@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: e8bc5a4e69a670c4b89da35749ebf370
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9126645288811558977
+    second: Idle_Transition_To_Block_Shadow_225_0
+  - first:
+      213: 4768706145114715438
+    second: Idle_Transition_To_Block_Shadow_225_1
+  - first:
+      213: -7465885220468185573
+    second: Idle_Transition_To_Block_Shadow_225_2
+  - first:
+      213: -8158723830829093624
+    second: Idle_Transition_To_Block_Shadow_225_3
+  - first:
+      213: 3875318215373053584
+    second: Idle_Transition_To_Block_Shadow_225_4
+  - first:
+      213: -5268265753708651598
+    second: Idle_Transition_To_Block_Shadow_225_5
+  - first:
+      213: -4675116281772356945
+    second: Idle_Transition_To_Block_Shadow_225_6
+  - first:
+      213: -7497438664342019177
+    second: Idle_Transition_To_Block_Shadow_225_7
+  - first:
+      213: 5466284611157281181
+    second: Idle_Transition_To_Block_Shadow_225_8
+  - first:
+      213: 3481009317811302612
+    second: Idle_Transition_To_Block_Shadow_225_9
+  - first:
+      213: 4212196838200266807
+    second: Idle_Transition_To_Block_Shadow_225_10
+  - first:
+      213: -4563016160695781100
+    second: Idle_Transition_To_Block_Shadow_225_11
+  - first:
+      213: 4010776444992741260
+    second: Idle_Transition_To_Block_Shadow_225_12
+  - first:
+      213: -2698989335427901678
+    second: Idle_Transition_To_Block_Shadow_225_13
+  - first:
+      213: -8814956887856182063
+    second: Idle_Transition_To_Block_Shadow_225_14
+  - first:
+      213: 116219071793429727
+    second: Idle_Transition_To_Block_Shadow_225_15
+  - first:
+      213: 4875221755457101892
+    second: Idle_Transition_To_Block_Shadow_225_16
+  - first:
+      213: 6879316443817149129
+    second: Idle_Transition_To_Block_Shadow_225_17
+  - first:
+      213: -6464002167796846168
+    second: Idle_Transition_To_Block_Shadow_225_18
+  - first:
+      213: -8024300608093620825
+    second: Idle_Transition_To_Block_Shadow_225_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 596
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148fa9ef88b58ae70800000000000000
+      internalID: 9126645288811558977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_1
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 596
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25f8c929f8dd2240800000000000000
+      internalID: 4768706145114715438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 595
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16a72ca2f8d36890800000000000000
+      internalID: -7465885220468185573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 595
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80deae217e366ce80800000000000000
+      internalID: -8158723830829093624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_4
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 594
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e59e27265e7c530800000000000000
+      internalID: 3875318215373053584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 415
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb17df953c53e6b0800000000000000
+      internalID: -5268265753708651598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_6
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 412
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa4055f286ae1fb0800000000000000
+      internalID: -4675116281772356945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_7
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 407
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7936d96024fb3f790800000000000000
+      internalID: -7497438664342019177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 407
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c63964e42cdb40800000000000000
+      internalID: 5466284611157281181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_9
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 407
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0b7f708870f4030800000000000000
+      internalID: 3481009317811302612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 227
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73053f805bab47a30800000000000000
+      internalID: 4212196838200266807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 227
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4197c5d4af8eca0c0800000000000000
+      internalID: -4563016160695781100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_12
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 227
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8fdb4d3de329a730800000000000000
+      internalID: 4010776444992741260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_13
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 227
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2179041df734b8ad0800000000000000
+      internalID: -2698989335427901678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_14
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 227
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc03f40a6bfaa580800000000000000
+      internalID: -8814956887856182063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_15
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7f5a41a4ec9100800000000000000
+      internalID: 116219071793429727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440e6474b5448a340800000000000000
+      internalID: 4875221755457101892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c289338bdd387f50800000000000000
+      internalID: 6879316443817149129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_18
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a13d11b6404b46a0800000000000000
+      internalID: -6464002167796846168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Transition_To_Block_Shadow_225_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 47
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5f0ab8c15f3a090800000000000000
+      internalID: -8024300608093620825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

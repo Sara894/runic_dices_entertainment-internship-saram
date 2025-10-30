@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: eaff72ab15cace9488175d303f644bdb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2386533976202653135
+    second: Idle_Get_Weapon_Body_225_0
+  - first:
+      213: -2092584819612091130
+    second: Idle_Get_Weapon_Body_225_1
+  - first:
+      213: -308498029435568864
+    second: Idle_Get_Weapon_Body_225_2
+  - first:
+      213: 3690929601432305477
+    second: Idle_Get_Weapon_Body_225_3
+  - first:
+      213: -1947768032886792899
+    second: Idle_Get_Weapon_Body_225_4
+  - first:
+      213: 3184071933924187257
+    second: Idle_Get_Weapon_Body_225_5
+  - first:
+      213: -1265975397442731279
+    second: Idle_Get_Weapon_Body_225_6
+  - first:
+      213: 2471549282470331431
+    second: Idle_Get_Weapon_Body_225_7
+  - first:
+      213: -417493474509662656
+    second: Idle_Get_Weapon_Body_225_8
+  - first:
+      213: -1438918674893006256
+    second: Idle_Get_Weapon_Body_225_9
+  - first:
+      213: -7700653324503599377
+    second: Idle_Get_Weapon_Body_225_10
+  - first:
+      213: -6699359045471193086
+    second: Idle_Get_Weapon_Body_225_11
+  - first:
+      213: 8160136582574161057
+    second: Idle_Get_Weapon_Body_225_12
+  - first:
+      213: -3333647938525857531
+    second: Idle_Get_Weapon_Body_225_13
+  - first:
+      213: -8448687640795628125
+    second: Idle_Get_Weapon_Body_225_14
+  - first:
+      213: -1639180210747016327
+    second: Idle_Get_Weapon_Body_225_15
+  - first:
+      213: -8782985446678129715
+    second: Idle_Get_Weapon_Body_225_16
+  - first:
+      213: 6988434954875462140
+    second: Idle_Get_Weapon_Body_225_17
+  - first:
+      213: -7522413806030593873
+    second: Idle_Get_Weapon_Body_225_18
+  - first:
+      213: -2759549931093641117
+    second: Idle_Get_Weapon_Body_225_19
+  - first:
+      213: 5029709414656229123
+    second: Idle_Get_Weapon_Body_225_20
+  - first:
+      213: -1041172578792452163
+    second: Idle_Get_Weapon_Body_225_21
+  - first:
+      213: -998231654289090291
+    second: Idle_Get_Weapon_Body_225_22
+  - first:
+      213: 8914484966253141873
+    second: Idle_Get_Weapon_Body_225_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 594
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325a083ef351eed0800000000000000
+      internalID: -2386533976202653135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 594
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d75ac8135a5f2e0800000000000000
+      internalID: -2092584819612091130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 594
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02db59d3daef7bbf0800000000000000
+      internalID: -308498029435568864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 594
+        width: 44
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fb858cae0d83330800000000000000
+      internalID: 3690929601432305477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 594
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ddbe63b4328f4e0800000000000000
+      internalID: -1947768032886792899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_5
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 594
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c97d0dd88103c20800000000000000
+      internalID: 3184071933924187257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 414
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ca0d551a5e6ee0800000000000000
+      internalID: -1265975397442731279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_7
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 414
+        width: 31
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72404824af4bc4220800000000000000
+      internalID: 2471549282470331431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 414
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046decb95e3c43af0800000000000000
+      internalID: -417493474509662656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_9
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 414
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a9352c61fe70ce0800000000000000
+      internalID: -1438918674893006256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_10
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 414
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe63886e998c12590800000000000000
+      internalID: -7700653324503599377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_11
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 414
+        width: 40
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208b3ef51781703a0800000000000000
+      internalID: -6699359045471193086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 234
+        width: 41
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acb003dcf0ae3170800000000000000
+      internalID: 8160136582574161057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 234
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f3f1ccd08cb1d0800000000000000
+      internalID: -3333647938525857531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 234
+        width: 42
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adb4209a5b30ca80800000000000000
+      internalID: -8448687640795628125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 234
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bf29778467049e0800000000000000
+      internalID: -1639180210747016327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_16
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 234
+        width: 34
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3135f35419c1680800000000000000
+      internalID: -8782985446678129715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_17
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 234
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1664da098ebf060800000000000000
+      internalID: 6988434954875462140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 53
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa06d06bf740b9790800000000000000
+      internalID: -7522413806030593873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 54
+        width: 54
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368b53955fb14b9d0800000000000000
+      internalID: -2759549931093641117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 54
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fb508601e1dc540800000000000000
+      internalID: 5029709414656229123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 54
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfc2335e030d81f0800000000000000
+      internalID: -1041172578792452163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_22
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 54
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095c8a69919522f0800000000000000
+      internalID: -998231654289090291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_Get_Weapon_Body_225_23
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 54
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f141988dc96bb70800000000000000
+      internalID: 8914484966253141873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

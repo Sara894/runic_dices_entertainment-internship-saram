@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: af8d4d3ff8ac4bc4b8046a8ecba02b35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2186315207578888354
+    second: Walk_Armed_Body_315_0
+  - first:
+      213: 4818658792312691963
+    second: Walk_Armed_Body_315_1
+  - first:
+      213: -6435755061651058405
+    second: Walk_Armed_Body_315_2
+  - first:
+      213: -215872699411190125
+    second: Walk_Armed_Body_315_3
+  - first:
+      213: 8064695276016685022
+    second: Walk_Armed_Body_315_4
+  - first:
+      213: 5124537297075447129
+    second: Walk_Armed_Body_315_5
+  - first:
+      213: -4666147851082079914
+    second: Walk_Armed_Body_315_6
+  - first:
+      213: 2879051267047713856
+    second: Walk_Armed_Body_315_7
+  - first:
+      213: 2120966824729216162
+    second: Walk_Armed_Body_315_8
+  - first:
+      213: 5549087054135492281
+    second: Walk_Armed_Body_315_9
+  - first:
+      213: -7320974286276737997
+    second: Walk_Armed_Body_315_10
+  - first:
+      213: 7449714801411478566
+    second: Walk_Armed_Body_315_11
+  - first:
+      213: 6020987037135446492
+    second: Walk_Armed_Body_315_12
+  - first:
+      213: 6769065850023650452
+    second: Walk_Armed_Body_315_13
+  - first:
+      213: 8888858976836618516
+    second: Walk_Armed_Body_315_14
+  - first:
+      213: 2666825943136795855
+    second: Walk_Armed_Body_315_15
+  - first:
+      213: -3253325728574041662
+    second: Walk_Armed_Body_315_16
+  - first:
+      213: -6875791345074929490
+    second: Walk_Armed_Body_315_17
+  - first:
+      213: 6080700900294652763
+    second: Walk_Armed_Body_315_18
+  - first:
+      213: -8697022434819349651
+    second: Walk_Armed_Body_315_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_0
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 598
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57d93df6e5a8a1e0800000000000000
+      internalID: -2186315207578888354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 600
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc5c9924a05fd240800000000000000
+      internalID: 4818658792312691963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 603
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ddd89eda9fa6a0800000000000000
+      internalID: -6435755061651058405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 602
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e24e27ce0110df0800000000000000
+      internalID: -215872699411190125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_4
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 601
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfcebcff9d8bef60800000000000000
+      internalID: 8064695276016685022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 417
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9552c6e45830e1740800000000000000
+      internalID: 5124537297075447129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 415
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651ecc270438e3fb0800000000000000
+      internalID: -4666147851082079914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 414
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c648e9fd174f720800000000000000
+      internalID: 2879051267047713856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 413
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a48f58f6103f6d10800000000000000
+      internalID: 2120966824729216162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 413
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bef6718641520d40800000000000000
+      internalID: 5549087054135492281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 233
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 334c4b0ccaca66a90800000000000000
+      internalID: -7320974286276737997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_11
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 234
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624d9104424b26760800000000000000
+      internalID: 7449714801411478566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_12
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 238
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a0b94fc7de8350800000000000000
+      internalID: 6020987037135446492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 240
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49423ebc68d80fd50800000000000000
+      internalID: 6769065850023650452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_14
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 242
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41983ece4229b5b70800000000000000
+      internalID: 8888858976836618516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 61
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccf67ad018720520800000000000000
+      internalID: 2666825943136795855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 59
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c194b99c7dd9d2d0800000000000000
+      internalID: -3253325728574041662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 58
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea08a1f73384490a0800000000000000
+      internalID: -6875791345074929490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_18
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 58
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53f57b704df26450800000000000000
+      internalID: 6080700900294652763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Armed_Body_315_19
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 58
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d636df0ac28fd4780800000000000000
+      internalID: -8697022434819349651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

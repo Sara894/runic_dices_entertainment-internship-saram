@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 93f0c424dacde5545b3366c7f80bcf3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -453134042679827363
+    second: Death_Armed_Shadow_202_0
+  - first:
+      213: -3893658316666918895
+    second: Death_Armed_Shadow_202_1
+  - first:
+      213: -7738882850591649316
+    second: Death_Armed_Shadow_202_2
+  - first:
+      213: 3258015697490563229
+    second: Death_Armed_Shadow_202_3
+  - first:
+      213: -4171110253217275738
+    second: Death_Armed_Shadow_202_4
+  - first:
+      213: 6824458685835347117
+    second: Death_Armed_Shadow_202_5
+  - first:
+      213: -320278290652138289
+    second: Death_Armed_Shadow_202_6
+  - first:
+      213: -309982134915163402
+    second: Death_Armed_Shadow_202_7
+  - first:
+      213: -8629558553423589767
+    second: Death_Armed_Shadow_202_8
+  - first:
+      213: 656048305324256967
+    second: Death_Armed_Shadow_202_9
+  - first:
+      213: 4783194836754646132
+    second: Death_Armed_Shadow_202_10
+  - first:
+      213: -1024294649478786127
+    second: Death_Armed_Shadow_202_11
+  - first:
+      213: 7852880974601692450
+    second: Death_Armed_Shadow_202_12
+  - first:
+      213: 5879874920784085074
+    second: Death_Armed_Shadow_202_13
+  - first:
+      213: -8194413034606457582
+    second: Death_Armed_Shadow_202_14
+  - first:
+      213: -5713573103682727956
+    second: Death_Armed_Shadow_202_15
+  - first:
+      213: -5381097347681008069
+    second: Death_Armed_Shadow_202_16
+  - first:
+      213: 5656321123997972792
+    second: Death_Armed_Shadow_202_17
+  - first:
+      213: 7785992804625144080
+    second: Death_Armed_Shadow_202_18
+  - first:
+      213: 4950580615215035388
+    second: Death_Armed_Shadow_202_19
+  - first:
+      213: 1880388872673535923
+    second: Death_Armed_Shadow_202_20
+  - first:
+      213: -3763534752442756628
+    second: Death_Armed_Shadow_202_21
+  - first:
+      213: -6194584883689316089
+    second: Death_Armed_Shadow_202_22
+  - first:
+      213: 2129592609988983123
+    second: Death_Armed_Shadow_202_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 598
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54ae6e2df426b9f0800000000000000
+      internalID: -453134042679827363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_1
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 599
+        width: 54
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118a256f362f6f9c0800000000000000
+      internalID: -3893658316666918895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_2
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 599
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd15f1cbc07f99490800000000000000
+      internalID: -7738882850591649316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 599
+        width: 56
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d905291e30cc63d20800000000000000
+      internalID: 3258015697490563229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_4
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 599
+        width: 55
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a0aefdf25d3d16c0800000000000000
+      internalID: -4171110253217275738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_5
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 598
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da48b89640955be50800000000000000
+      internalID: 6824458685835347117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 418
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4f86077942e8bf0800000000000000
+      internalID: -320278290652138289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_7
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 417
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa1aa104e8b2bbf0800000000000000
+      internalID: -309982134915163402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 415
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ec0ce8736ad3880800000000000000
+      internalID: -8629558553423589767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 414
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce69523570ca1900800000000000000
+      internalID: 656048305324256967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_10
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 408
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4744e309c52516240800000000000000
+      internalID: 4783194836754646132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 405
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3db787179f8c1f0800000000000000
+      internalID: -1024294649478786127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225ae8ad3a90bfc60800000000000000
+      internalID: 7852880974601692450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_13
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 226
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25040196613899150800000000000000
+      internalID: 5879874920784085074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 225
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d8379c2c8974e80800000000000000
+      internalID: -8194413034606457582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_15
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 214
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cefc3c4b88f45b0b0800000000000000
+      internalID: -5713573103682727956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 212
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b364da9f8708255b0800000000000000
+      internalID: -5381097347681008069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_17
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 216
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839ff63081a4f7e40800000000000000
+      internalID: 5656321123997972792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 35
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019dd6f24376d0c60800000000000000
+      internalID: 7785992804625144080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 35
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b3d917def3b440800000000000000
+      internalID: 4950580615215035388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_20
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 36
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ad4b87bb781a10800000000000000
+      internalID: 1880388872673535923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 36
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1dfcc251d35cbc0800000000000000
+      internalID: -3763534752442756628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_22
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 36
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701a1bc5ed9680aa0800000000000000
+      internalID: -6194584883689316089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Death_Armed_Shadow_202_23
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 36
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359b0ba1235dd8d10800000000000000
+      internalID: 2129592609988983123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

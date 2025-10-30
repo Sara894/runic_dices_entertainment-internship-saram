@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: aa5566c0247a6dc468ce36c052389a69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6353766856105836761
+    second: Hit_Unarmed_Shadow_315_0
+  - first:
+      213: -7735123986331672585
+    second: Hit_Unarmed_Shadow_315_1
+  - first:
+      213: 2221290688903940857
+    second: Hit_Unarmed_Shadow_315_2
+  - first:
+      213: 562373249607954428
+    second: Hit_Unarmed_Shadow_315_3
+  - first:
+      213: 4115263650293397849
+    second: Hit_Unarmed_Shadow_315_4
+  - first:
+      213: -3198293283499311029
+    second: Hit_Unarmed_Shadow_315_5
+  - first:
+      213: -5029310513212131770
+    second: Hit_Unarmed_Shadow_315_6
+  - first:
+      213: -7075051267364192656
+    second: Hit_Unarmed_Shadow_315_7
+  - first:
+      213: 2991542273686618458
+    second: Hit_Unarmed_Shadow_315_8
+  - first:
+      213: -8208857156869951662
+    second: Hit_Unarmed_Shadow_315_9
+  - first:
+      213: -8623115755158252641
+    second: Hit_Unarmed_Shadow_315_10
+  - first:
+      213: 4609700077903700412
+    second: Hit_Unarmed_Shadow_315_11
+  - first:
+      213: -4260002140787166192
+    second: Hit_Unarmed_Shadow_315_12
+  - first:
+      213: -4443573104176747820
+    second: Hit_Unarmed_Shadow_315_13
+  - first:
+      213: -6265278253026433855
+    second: Hit_Unarmed_Shadow_315_14
+  - first:
+      213: 3013216951369937420
+    second: Hit_Unarmed_Shadow_315_15
+  - first:
+      213: -2768922006872910293
+    second: Hit_Unarmed_Shadow_315_16
+  - first:
+      213: -5145197680717828801
+    second: Hit_Unarmed_Shadow_315_17
+  - first:
+      213: 7490855643108843539
+    second: Hit_Unarmed_Shadow_315_18
+  - first:
+      213: -260648567802314642
+    second: Hit_Unarmed_Shadow_315_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_0
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 593
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0c6dbba4d1d2850800000000000000
+      internalID: 6353766856105836761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 595
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd81587b157a490800000000000000
+      internalID: -7735123986331672585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 596
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa8007dc1c93de10800000000000000
+      internalID: 2221290688903940857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_3
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 596
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff601ead73fdc700800000000000000
+      internalID: 562373249607954428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_4
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 596
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959b0d08c7a5c1930800000000000000
+      internalID: 4115263650293397849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40818534316d93d0800000000000000
+      internalID: -3198293283499311029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_6
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 413
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6467ad21cbc443ab0800000000000000
+      internalID: -5029310513212131770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 412
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e74198b5e50dd90800000000000000
+      internalID: -7075051267364192656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 410
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51c7a919d7148920800000000000000
+      internalID: 2991542273686618458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_9
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 409
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe7d088e7441e80800000000000000
+      internalID: -8208857156869951662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 229
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93d7bc68e9845880800000000000000
+      internalID: -8623115755158252641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 229
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb16a803cc1f8ff30800000000000000
+      internalID: 4609700077903700412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 230
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0143af79f9e61e4c0800000000000000
+      internalID: -4260002140787166192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_13
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 230
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daa0180ec14552c0800000000000000
+      internalID: -4443573104176747820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_14
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 230
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4216daf924d09a0800000000000000
+      internalID: -6265278253026433855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0237914ad811d920800000000000000
+      internalID: 3013216951369937420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_16
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 51
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b261499ea10d299d0800000000000000
+      internalID: -2768922006872910293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_17
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 52
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d66a548f59898b0800000000000000
+      internalID: -5145197680717828801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_18
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 52
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310ab37e48dd4f760800000000000000
+      internalID: 7490855643108843539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Unarmed_Shadow_315_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 53
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60cde0328df16cf0800000000000000
+      internalID: -260648567802314642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: 0afcd8921566a2e419ab8b6bd3aff5e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8618432969236372090
+    second: Jump_Armed_Body_225_0
+  - first:
+      213: 8509764564126223818
+    second: Jump_Armed_Body_225_1
+  - first:
+      213: 5141524632634012729
+    second: Jump_Armed_Body_225_2
+  - first:
+      213: -5965983116963312799
+    second: Jump_Armed_Body_225_3
+  - first:
+      213: 3947150139495657787
+    second: Jump_Armed_Body_225_4
+  - first:
+      213: -5433734173498158025
+    second: Jump_Armed_Body_225_5
+  - first:
+      213: 7781154007771285284
+    second: Jump_Armed_Body_225_6
+  - first:
+      213: 5433698163699464883
+    second: Jump_Armed_Body_225_7
+  - first:
+      213: 7537423767174476995
+    second: Jump_Armed_Body_225_8
+  - first:
+      213: 5322096654427534407
+    second: Jump_Armed_Body_225_9
+  - first:
+      213: 7389463931292612412
+    second: Jump_Armed_Body_225_10
+  - first:
+      213: -2569916041018408758
+    second: Jump_Armed_Body_225_11
+  - first:
+      213: -5798621691127963233
+    second: Jump_Armed_Body_225_12
+  - first:
+      213: -7576071047185657037
+    second: Jump_Armed_Body_225_13
+  - first:
+      213: -8446374152870527012
+    second: Jump_Armed_Body_225_14
+  - first:
+      213: 1874536225452250287
+    second: Jump_Armed_Body_225_15
+  - first:
+      213: 2412780555634508470
+    second: Jump_Armed_Body_225_16
+  - first:
+      213: -6862738679568478336
+    second: Jump_Armed_Body_225_17
+  - first:
+      213: -5682115611566778120
+    second: Jump_Armed_Body_225_18
+  - first:
+      213: -7067349028380984366
+    second: Jump_Armed_Body_225_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 594
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a59d38f13da9770800000000000000
+      internalID: 8618432969236372090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 594
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd43fec8c1c81670800000000000000
+      internalID: 8509764564126223818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 594
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9343214996d5a5740800000000000000
+      internalID: 5141524632634012729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_3
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 594
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b8c69d6f1943da0800000000000000
+      internalID: -5965983116963312799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 594
+        width: 41
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31b5c3932817c630800000000000000
+      internalID: 3947150139495657787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 415
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734ddb0fe8f7794b0800000000000000
+      internalID: -5433734173498158025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 429
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42780dff7563cfb60800000000000000
+      internalID: 7781154007771285284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 436
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3babfffd0bf586b40800000000000000
+      internalID: 5433698163699464883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_8
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 439
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c475043bfe4a9860800000000000000
+      internalID: 7537423767174476995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_9
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 437
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744b273a5b2ebd940800000000000000
+      internalID: 5322096654427534407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 249
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37f1416b46ac8660800000000000000
+      internalID: 7389463931292612412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 235
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac005880af2d55cd0800000000000000
+      internalID: -2569916041018408758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 234
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9161795b48278fa0800000000000000
+      internalID: -5798621691127963233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_13
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 234
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3339067b5836cd690800000000000000
+      internalID: -7576071047185657037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_14
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 234
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf7c12757378ca80800000000000000
+      internalID: -8446374152870527012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 54
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4deace3c0b30a10800000000000000
+      internalID: 1874536225452250287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_16
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 54
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b28093c12beb7120800000000000000
+      internalID: 2412780555634508470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_17
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 54
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fccf10887a2c0a0800000000000000
+      internalID: -6862738679568478336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_18
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 54
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f85cd7d4f11521b0800000000000000
+      internalID: -5682115611566778120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Armed_Body_225_19
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 54
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db36abc08bbbed90800000000000000
+      internalID: -7067349028380984366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: cde083963e703984ba1bc94858d50af2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3124536102190633808
+    second: Run_Unarmed_Shadow_135_0
+  - first:
+      213: 3227239226516176420
+    second: Run_Unarmed_Shadow_135_1
+  - first:
+      213: 9076857022931856735
+    second: Run_Unarmed_Shadow_135_2
+  - first:
+      213: 4846224674785688401
+    second: Run_Unarmed_Shadow_135_3
+  - first:
+      213: 1762368250033619404
+    second: Run_Unarmed_Shadow_135_4
+  - first:
+      213: 3663697370784112626
+    second: Run_Unarmed_Shadow_135_5
+  - first:
+      213: -4662657941489926889
+    second: Run_Unarmed_Shadow_135_6
+  - first:
+      213: -7244754441211000622
+    second: Run_Unarmed_Shadow_135_7
+  - first:
+      213: 6943093458105790973
+    second: Run_Unarmed_Shadow_135_8
+  - first:
+      213: -3970464696271972876
+    second: Run_Unarmed_Shadow_135_9
+  - first:
+      213: -8728283845238949983
+    second: Run_Unarmed_Shadow_135_10
+  - first:
+      213: -7964758231110375170
+    second: Run_Unarmed_Shadow_135_11
+  - first:
+      213: -3827105123791648983
+    second: Run_Unarmed_Shadow_135_12
+  - first:
+      213: 6907166757924492305
+    second: Run_Unarmed_Shadow_135_13
+  - first:
+      213: 7087111396312410384
+    second: Run_Unarmed_Shadow_135_14
+  - first:
+      213: 4938640052102823707
+    second: Run_Unarmed_Shadow_135_15
+  - first:
+      213: 4933063017626403090
+    second: Run_Unarmed_Shadow_135_16
+  - first:
+      213: 198945904429653570
+    second: Run_Unarmed_Shadow_135_17
+  - first:
+      213: 5622508092201214105
+    second: Run_Unarmed_Shadow_135_18
+  - first:
+      213: -7703684720565144941
+    second: Run_Unarmed_Shadow_135_19
+  - first:
+      213: 1973702172395354362
+    second: Run_Unarmed_Shadow_135_20
+  - first:
+      213: 4323850038501248728
+    second: Run_Unarmed_Shadow_135_21
+  - first:
+      213: -8196559766103142766
+    second: Run_Unarmed_Shadow_135_22
+  - first:
+      213: -2464516669028255217
+    second: Run_Unarmed_Shadow_135_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 591
+        width: 48
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc2b0538fa63a4d0800000000000000
+      internalID: -3124536102190633808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_1
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 590
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ef3b55af479cc20800000000000000
+      internalID: 3227239226516176420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 589
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5decd00f5977fd70800000000000000
+      internalID: 9076857022931856735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_3
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 589
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b75525aaf314340800000000000000
+      internalID: 4846224674785688401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 589
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc14ea20690357810800000000000000
+      internalID: 1762368250033619404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_5
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 589
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff9e1ef85118d230800000000000000
+      internalID: 3663697370784112626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 412
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71db6585e49ea4fb0800000000000000
+      internalID: -4662657941489926889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_7
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 414
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d84fa65836757b90800000000000000
+      internalID: -7244754441211000622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 415
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1fbbcc6b2da5060800000000000000
+      internalID: 6943093458105790973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_9
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 416
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5da79256316e8c0800000000000000
+      internalID: -3970464696271972876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_10
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 416
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a770c15618eed680800000000000000
+      internalID: -8728283845238949983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 416
+        width: 49
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef82cc0869e777190800000000000000
+      internalID: -7964758231110375170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 236
+        width: 50
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274252ba2463eac0800000000000000
+      internalID: -3827105123791648983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 237
+        width: 50
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114d972129f2bdf50800000000000000
+      internalID: 6907166757924492305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 236
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019e2dc044a7a5260800000000000000
+      internalID: 7087111396312410384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_15
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 236
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ffa1b16f2998440800000000000000
+      internalID: 4938640052102823707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 236
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2110d349da2c57440800000000000000
+      internalID: 4933063017626403090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_17
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 233
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24e5c0bfe3cc2c200800000000000000
+      internalID: 198945904429653570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 51
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990a96e0259270e40800000000000000
+      internalID: 5622508092201214105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_19
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 51
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3923c110093071590800000000000000
+      internalID: -7703684720565144941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_20
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 51
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ba0e2baff36b10800000000000000
+      internalID: 1973702172395354362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_21
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 51
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de0de683b6610c30800000000000000
+      internalID: 4323850038501248728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_22
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 51
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ec929e158ff3e80800000000000000
+      internalID: -8196559766103142766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Shadow_135_23
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 51
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aba87a5274ccdd0800000000000000
+      internalID: -2464516669028255217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

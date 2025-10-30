@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: f86adc0682ddf2f4890061d96458ce2a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4352872994310074765
+    second: Run_Unarmed_Body_112_0
+  - first:
+      213: 7537486014405094440
+    second: Run_Unarmed_Body_112_1
+  - first:
+      213: -525732381558664376
+    second: Run_Unarmed_Body_112_2
+  - first:
+      213: -8867891640212684423
+    second: Run_Unarmed_Body_112_3
+  - first:
+      213: 4308585121027676819
+    second: Run_Unarmed_Body_112_4
+  - first:
+      213: -2390399425281470362
+    second: Run_Unarmed_Body_112_5
+  - first:
+      213: 5744273891946761029
+    second: Run_Unarmed_Body_112_6
+  - first:
+      213: -5963990823439510243
+    second: Run_Unarmed_Body_112_7
+  - first:
+      213: 5977493701883915320
+    second: Run_Unarmed_Body_112_8
+  - first:
+      213: -191733887657159409
+    second: Run_Unarmed_Body_112_9
+  - first:
+      213: -452593668957720087
+    second: Run_Unarmed_Body_112_10
+  - first:
+      213: 2017174955778971058
+    second: Run_Unarmed_Body_112_11
+  - first:
+      213: 3630005650343255934
+    second: Run_Unarmed_Body_112_12
+  - first:
+      213: -4062092147982662512
+    second: Run_Unarmed_Body_112_13
+  - first:
+      213: -6836209761981333136
+    second: Run_Unarmed_Body_112_14
+  - first:
+      213: 1832964990178871422
+    second: Run_Unarmed_Body_112_15
+  - first:
+      213: 3591929866892313113
+    second: Run_Unarmed_Body_112_16
+  - first:
+      213: -383216423815197010
+    second: Run_Unarmed_Body_112_17
+  - first:
+      213: 1442092194173584027
+    second: Run_Unarmed_Body_112_18
+  - first:
+      213: 4878269763174422630
+    second: Run_Unarmed_Body_112_19
+  - first:
+      213: 1856374617347016806
+    second: Run_Unarmed_Body_112_20
+  - first:
+      213: -3661991426378284910
+    second: Run_Unarmed_Body_112_21
+  - first:
+      213: 1099956007525606651
+    second: Run_Unarmed_Body_112_22
+  - first:
+      213: -9002540510125940826
+    second: Run_Unarmed_Body_112_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 605
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d813e320de2886c30800000000000000
+      internalID: 4352872994310074765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 605
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c271448978a9860800000000000000
+      internalID: 7537486014405094440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 606
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84396463f2934b8f0800000000000000
+      internalID: -525732381558664376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_3
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 607
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 971877e898beee480800000000000000
+      internalID: -8867891640212684423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 607
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a5367f65b2bcb30800000000000000
+      internalID: 4308585121027676819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_5
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 609
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660dcc8336893ded0800000000000000
+      internalID: -2390399425281470362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 425
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b89069ba2c7bf40800000000000000
+      internalID: 5744273891946761029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 421
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15d235d1f5ab3da0800000000000000
+      internalID: -5963990823439510243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_8
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 419
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ceceb0ad254f250800000000000000
+      internalID: 5977493701883915320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_9
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 418
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f055ac68b03d65df0800000000000000
+      internalID: -191733887657159409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_10
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 418
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e13f2eb47018b9f0800000000000000
+      internalID: -452593668957720087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_11
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 417
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b515015fe17efb10800000000000000
+      internalID: 2017174955778971058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 237
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fde5908ee506230800000000000000
+      internalID: 3630005650343255934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_13
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 238
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094079a96bc80a7c0800000000000000
+      internalID: -4062092147982662512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 239
+        width: 59
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0718b07f077e021a0800000000000000
+      internalID: -6836209761981333136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 240
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78c65572ffff6910800000000000000
+      internalID: 1832964990178871422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_16
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 241
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128b3ede2919d130800000000000000
+      internalID: 3591929866892313113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 243
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae466261ba8eaaf0800000000000000
+      internalID: -383216423815197010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_18
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 65
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b928417c537530410800000000000000
+      internalID: 1442092194173584027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 67
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685a80e08813b340800000000000000
+      internalID: 4878269763174422630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_20
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 68
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668450501ea23c910800000000000000
+      internalID: 1856374617347016806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_21
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 67
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2904234233efd2dc0800000000000000
+      internalID: -3661991426378284910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_22
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 65
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ee193924d34f00800000000000000
+      internalID: 1099956007525606651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Unarmed_Body_112_23
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 65
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af11e18a1d801380800000000000000
+      internalID: -9002540510125940826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

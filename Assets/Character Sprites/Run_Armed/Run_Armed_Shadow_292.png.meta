@@ -1,0 +1,717 @@
+fileFormatVersion: 2
+guid: 56b1e82a2c93968458d15e17bcd02e84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9187813662426110621
+    second: Run_Armed_Shadow_292_0
+  - first:
+      213: 2097089034207008058
+    second: Run_Armed_Shadow_292_1
+  - first:
+      213: 8981322458113654243
+    second: Run_Armed_Shadow_292_2
+  - first:
+      213: 482687920382182489
+    second: Run_Armed_Shadow_292_3
+  - first:
+      213: -7285096538544508564
+    second: Run_Armed_Shadow_292_4
+  - first:
+      213: -6227436146247780538
+    second: Run_Armed_Shadow_292_5
+  - first:
+      213: -2694451364496001283
+    second: Run_Armed_Shadow_292_6
+  - first:
+      213: 7895458191164479994
+    second: Run_Armed_Shadow_292_7
+  - first:
+      213: 1904238362137661254
+    second: Run_Armed_Shadow_292_8
+  - first:
+      213: 5546876360132728310
+    second: Run_Armed_Shadow_292_9
+  - first:
+      213: -2554593940204270664
+    second: Run_Armed_Shadow_292_10
+  - first:
+      213: 3898900730061165165
+    second: Run_Armed_Shadow_292_11
+  - first:
+      213: 8167284715189605313
+    second: Run_Armed_Shadow_292_12
+  - first:
+      213: 184772150142835463
+    second: Run_Armed_Shadow_292_13
+  - first:
+      213: 1950529688085487331
+    second: Run_Armed_Shadow_292_14
+  - first:
+      213: 3801340055010720760
+    second: Run_Armed_Shadow_292_15
+  - first:
+      213: 3481717404881647067
+    second: Run_Armed_Shadow_292_16
+  - first:
+      213: -7158699022712407206
+    second: Run_Armed_Shadow_292_17
+  - first:
+      213: 337487504415476568
+    second: Run_Armed_Shadow_292_18
+  - first:
+      213: 80706892749315874
+    second: Run_Armed_Shadow_292_19
+  - first:
+      213: 2195307503057419087
+    second: Run_Armed_Shadow_292_20
+  - first:
+      213: -5720601249897688811
+    second: Run_Armed_Shadow_292_21
+  - first:
+      213: 2976696601391435589
+    second: Run_Armed_Shadow_292_22
+  - first:
+      213: 6048900297997178497
+    second: Run_Armed_Shadow_292_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 594
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656c9437245e7080800000000000000
+      internalID: -9187813662426110621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 594
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a359642ad5b5a1d10800000000000000
+      internalID: 2097089034207008058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 595
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed3a19c03114ac70800000000000000
+      internalID: 8981322458113654243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 595
+        width: 59
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95480cf2b1ad2b600800000000000000
+      internalID: 482687920382182489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_4
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 595
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6170a9db4326ea90800000000000000
+      internalID: -7285096538544508564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_5
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 595
+        width: 63
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6473971c1d3b399a0800000000000000
+      internalID: -6227436146247780538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 415
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df636a282c26b9ad0800000000000000
+      internalID: -2694451364496001283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_7
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 413
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af99e47946d429d60800000000000000
+      internalID: 7895458191164479994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_8
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 412
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f03e683b63d6a10800000000000000
+      internalID: 1904238362137661254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_9
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 412
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f519b239a67afc40800000000000000
+      internalID: 5546876360132728310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_10
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 409
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb42c0a8524c8cd0800000000000000
+      internalID: -2554593940204270664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_11
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 408
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d629ec58e8dab1630800000000000000
+      internalID: 3898900730061165165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 229
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39a542d26085170800000000000000
+      internalID: 8167284715189605313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_13
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 229
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b16a5aa41709200800000000000000
+      internalID: 184772150142835463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_14
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 230
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee503eba6ca11b10800000000000000
+      internalID: 1950529688085487331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_15
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 230
+        width: 73
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbb061c3a211c430800000000000000
+      internalID: 3801340055010720760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 230
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5f346688b815030800000000000000
+      internalID: 3481717404881647067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_17
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 231
+        width: 69
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b7a41da2137ac90800000000000000
+      internalID: -7158699022712407206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 52
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b41d0e81ffea400800000000000000
+      internalID: 337487504415476568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_19
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 54
+        width: 65
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f9f39cd7abe1100800000000000000
+      internalID: 80706892749315874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_20
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 55
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bbc74fa8c477e10800000000000000
+      internalID: 2195307503057419087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_21
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 55
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5115136e8775c90b0800000000000000
+      internalID: -5720601249897688811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_22
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 54
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f8c0aa9c95f4920800000000000000
+      internalID: 2976696601391435589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Armed_Shadow_292_23
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 54
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18650e7c5c202f350800000000000000
+      internalID: 6048900297997178497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
