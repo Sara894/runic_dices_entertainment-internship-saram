@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9d04904d5eaaf5f4ea6de5d0c992e216
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7612883235802620319
+    second: Run_Shadow_180_0
+  - first:
+      213: -197653234339963224
+    second: Run_Shadow_180_1
+  - first:
+      213: 4951048601469300430
+    second: Run_Shadow_180_2
+  - first:
+      213: 8543194754175833695
+    second: Run_Shadow_180_3
+  - first:
+      213: -2660043143668906054
+    second: Run_Shadow_180_4
+  - first:
+      213: -710091430780078845
+    second: Run_Shadow_180_5
+  - first:
+      213: 6358704365367618267
+    second: Run_Shadow_180_6
+  - first:
+      213: -1465988804153937726
+    second: Run_Shadow_180_7
+  - first:
+      213: 4632011377593527015
+    second: Run_Shadow_180_8
+  - first:
+      213: -4716938123015111269
+    second: Run_Shadow_180_9
+  - first:
+      213: -8863509017116385424
+    second: Run_Shadow_180_10
+  - first:
+      213: -5115215059065937014
+    second: Run_Shadow_180_11
+  - first:
+      213: -5481795972516962094
+    second: Run_Shadow_180_12
+  - first:
+      213: -1618301277394477658
+    second: Run_Shadow_180_13
+  - first:
+      213: -1456836369803210016
+    second: Run_Shadow_180_14
+  - first:
+      213: 4198329658521639885
+    second: Run_Shadow_180_15
+  - first:
+      213: -589984804611276034
+    second: Run_Shadow_180_16
+  - first:
+      213: 2156683317263036039
+    second: Run_Shadow_180_17
+  - first:
+      213: -4024259079891778558
+    second: Run_Shadow_180_18
+  - first:
+      213: 8217421911311327831
+    second: Run_Shadow_180_19
+  - first:
+      213: 404292829586567567
+    second: Run_Shadow_180_20
+  - first:
+      213: 4534158897265135590
+    second: Run_Shadow_180_21
+  - first:
+      213: 7676101716011142734
+    second: Run_Shadow_180_22
+  - first:
+      213: -4128723790307680010
+    second: Run_Shadow_180_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Run_Shadow_180_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1046
+        width: 137
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e5575280b995690800000000000000
+      internalID: -7612883235802620319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1046
+        width: 136
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae957a3e6bc14df0800000000000000
+      internalID: -197653234339963224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1047
+        width: 137
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecea544a878a5b440800000000000000
+      internalID: 4951048601469300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_3
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1047
+        width: 137
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5691a97d568f8670800000000000000
+      internalID: 8543194754175833695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_4
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1047
+        width: 137
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7c666bad0a51bd0800000000000000
+      internalID: -2660043143668906054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_5
+      rect:
+        serializedVersion: 2
+        x: 1669
+        y: 1048
+        width: 137
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305fd4e1b9f3526f0800000000000000
+      internalID: -710091430780078845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 728
+        width: 137
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda66713ee7ae3850800000000000000
+      internalID: 6358704365367618267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 728
+        width: 137
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c074b323f2c7abe0800000000000000
+      internalID: -1465988804153937726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_8
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 728
+        width: 136
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eaa7057ec5384040800000000000000
+      internalID: 4632011377593527015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_9
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 728
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dbf2eb4c11a8eb0800000000000000
+      internalID: -4716938123015111269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_10
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 728
+        width: 137
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f5e43828d7ef480800000000000000
+      internalID: -8863509017116385424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_11
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 728
+        width: 137
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8365ae510b1309b0800000000000000
+      internalID: -5115215059065937014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 406
+        width: 137
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0a5f65b9fbce3b0800000000000000
+      internalID: -5481795972516962094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 407
+        width: 137
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad5755ff83aa89e0800000000000000
+      internalID: -1618301277394477658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_14
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 408
+        width: 136
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e292025a0748cbe0800000000000000
+      internalID: -1456836369803210016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_15
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 408
+        width: 137
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb5b2aa496734a30800000000000000
+      internalID: 4198329658521639885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_16
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 408
+        width: 136
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2444232f3ffc7f0800000000000000
+      internalID: -589984804611276034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_17
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 408
+        width: 137
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e697aec041eed10800000000000000
+      internalID: 2156683317263036039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 137
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20409e230b5f628c0800000000000000
+      internalID: -4024259079891778558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_19
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 88
+        width: 137
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7522939c0b52a0270800000000000000
+      internalID: 8217421911311327831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_20
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 87
+        width: 136
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81bebcbf265c9500800000000000000
+      internalID: 404292829586567567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_21
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 87
+        width: 137
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef4aaa7e719cee30800000000000000
+      internalID: 4534158897265135590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_22
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 87
+        width: 136
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e4c9a47ddf68a60800000000000000
+      internalID: 7676101716011142734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_Shadow_180_23
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 86
+        width: 136
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0a10f6693d3b6c0800000000000000
+      internalID: -4128723790307680010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Run_Shadow_180_0: -7612883235802620319
+      Run_Shadow_180_1: -197653234339963224
+      Run_Shadow_180_10: -8863509017116385424
+      Run_Shadow_180_11: -5115215059065937014
+      Run_Shadow_180_12: -5481795972516962094
+      Run_Shadow_180_13: -1618301277394477658
+      Run_Shadow_180_14: -1456836369803210016
+      Run_Shadow_180_15: 4198329658521639885
+      Run_Shadow_180_16: -589984804611276034
+      Run_Shadow_180_17: 2156683317263036039
+      Run_Shadow_180_18: -4024259079891778558
+      Run_Shadow_180_19: 8217421911311327831
+      Run_Shadow_180_2: 4951048601469300430
+      Run_Shadow_180_20: 404292829586567567
+      Run_Shadow_180_21: 4534158897265135590
+      Run_Shadow_180_22: 7676101716011142734
+      Run_Shadow_180_23: -4128723790307680010
+      Run_Shadow_180_3: 8543194754175833695
+      Run_Shadow_180_4: -2660043143668906054
+      Run_Shadow_180_5: -710091430780078845
+      Run_Shadow_180_6: 6358704365367618267
+      Run_Shadow_180_7: -1465988804153937726
+      Run_Shadow_180_8: 4632011377593527015
+      Run_Shadow_180_9: -4716938123015111269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

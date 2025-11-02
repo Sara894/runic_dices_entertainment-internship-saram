@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 6006b70e7fd4cc44db36aeee878237c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4537199655519473727
+    second: Walk_Shadow_180_0
+  - first:
+      213: 3594798387936277824
+    second: Walk_Shadow_180_1
+  - first:
+      213: 3406754921308876534
+    second: Walk_Shadow_180_2
+  - first:
+      213: 7819643815334011026
+    second: Walk_Shadow_180_3
+  - first:
+      213: -8700225625312167582
+    second: Walk_Shadow_180_4
+  - first:
+      213: 2909074847659541991
+    second: Walk_Shadow_180_5
+  - first:
+      213: 1518908461420037149
+    second: Walk_Shadow_180_6
+  - first:
+      213: -2011063918567291372
+    second: Walk_Shadow_180_7
+  - first:
+      213: 7551864572601133108
+    second: Walk_Shadow_180_8
+  - first:
+      213: 4333957576230583186
+    second: Walk_Shadow_180_9
+  - first:
+      213: 9104998362429518536
+    second: Walk_Shadow_180_10
+  - first:
+      213: 1318577645714071020
+    second: Walk_Shadow_180_11
+  - first:
+      213: -1413869534729156671
+    second: Walk_Shadow_180_12
+  - first:
+      213: 7368396876374769355
+    second: Walk_Shadow_180_13
+  - first:
+      213: -1250670387991881449
+    second: Walk_Shadow_180_14
+  - first:
+      213: -8225590231952526227
+    second: Walk_Shadow_180_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Walk_Shadow_180_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1049
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfacb1d3f0a801c0800000000000000
+      internalID: -4537199655519473727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1049
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045b618761a43e130800000000000000
+      internalID: 3594798387936277824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1049
+        width: 137
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6feed691d89374f20800000000000000
+      internalID: 3406754921308876534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_3
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1049
+        width: 137
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290601bae94f48c60800000000000000
+      internalID: 7819643815334011026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 729
+        width: 137
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2697489b3e6924780800000000000000
+      internalID: -8700225625312167582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_5
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 729
+        width: 137
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e545c7392c1f5820800000000000000
+      internalID: 2909074847659541991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_6
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 729
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14c649b23f341510800000000000000
+      internalID: 1518908461420037149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_7
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 729
+        width: 137
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416013965044714e0800000000000000
+      internalID: -2011063918567291372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 409
+        width: 137
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4386fb931dc9dc860800000000000000
+      internalID: 7551864572601133108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_9
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 409
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b36da047f452c30800000000000000
+      internalID: 4333957576230583186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_10
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 409
+        width: 137
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ff1135c37b5e70800000000000000
+      internalID: 9104998362429518536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_11
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 409
+        width: 137
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedde85f1678c4210800000000000000
+      internalID: 1318577645714071020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 89
+        width: 137
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7c8bf262de06ce0800000000000000
+      internalID: -1413869534729156671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_13
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 89
+        width: 137
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce7a6c6bedc14660800000000000000
+      internalID: 7368396876374769355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 89
+        width: 137
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719d4a098e9b4aee0800000000000000
+      internalID: -1250670387991881449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_Shadow_180_15
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 89
+        width: 137
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64fb8cd345d8dd80800000000000000
+      internalID: -8225590231952526227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Walk_Shadow_180_0: -4537199655519473727
+      Walk_Shadow_180_1: 3594798387936277824
+      Walk_Shadow_180_10: 9104998362429518536
+      Walk_Shadow_180_11: 1318577645714071020
+      Walk_Shadow_180_12: -1413869534729156671
+      Walk_Shadow_180_13: 7368396876374769355
+      Walk_Shadow_180_14: -1250670387991881449
+      Walk_Shadow_180_15: -8225590231952526227
+      Walk_Shadow_180_2: 3406754921308876534
+      Walk_Shadow_180_3: 7819643815334011026
+      Walk_Shadow_180_4: -8700225625312167582
+      Walk_Shadow_180_5: 2909074847659541991
+      Walk_Shadow_180_6: 1518908461420037149
+      Walk_Shadow_180_7: -2011063918567291372
+      Walk_Shadow_180_8: 7551864572601133108
+      Walk_Shadow_180_9: 4333957576230583186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

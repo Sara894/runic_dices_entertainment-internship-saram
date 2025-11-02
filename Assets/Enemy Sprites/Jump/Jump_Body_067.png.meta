@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: e99d3fd066f70164eb21e611e1955de3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3186206618411396206
+    second: Jump_Body_067_0
+  - first:
+      213: -2682907546154830580
+    second: Jump_Body_067_1
+  - first:
+      213: 3486248760221547212
+    second: Jump_Body_067_2
+  - first:
+      213: 4149518582137172325
+    second: Jump_Body_067_3
+  - first:
+      213: 2878496813082965922
+    second: Jump_Body_067_4
+  - first:
+      213: -5847105673521943664
+    second: Jump_Body_067_5
+  - first:
+      213: 7743151324738545566
+    second: Jump_Body_067_6
+  - first:
+      213: 3478332937923823222
+    second: Jump_Body_067_7
+  - first:
+      213: -3468527745464024000
+    second: Jump_Body_067_8
+  - first:
+      213: 6676353515372573071
+    second: Jump_Body_067_9
+  - first:
+      213: 2192990866855604499
+    second: Jump_Body_067_10
+  - first:
+      213: 4694842863433367749
+    second: Jump_Body_067_11
+  - first:
+      213: 5013486698701224983
+    second: Jump_Body_067_12
+  - first:
+      213: -3150602072308394782
+    second: Jump_Body_067_13
+  - first:
+      213: -1093510779112784689
+    second: Jump_Body_067_14
+  - first:
+      213: 3968899243791838476
+    second: Jump_Body_067_15
+  - first:
+      213: 5440198354429960807
+    second: Jump_Body_067_16
+  - first:
+      213: -1567927244316104167
+    second: Jump_Body_067_17
+  - first:
+      213: -6953583815819025991
+    second: Jump_Body_067_18
+  - first:
+      213: -3935610998577543682
+    second: Jump_Body_067_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_Body_067_0
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1064
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 293179836f158c3d0800000000000000
+      internalID: -3186206618411396206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1062
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05f93a2dc564cad0800000000000000
+      internalID: -2682907546154830580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_2
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1057
+        width: 45
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab6a7c6c4a16030800000000000000
+      internalID: 3486248760221547212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_3
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1055
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5613b255a2d069930800000000000000
+      internalID: 4149518582137172325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_4
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 1061
+        width: 41
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a777eeb99972f720800000000000000
+      internalID: 2878496813082965922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_5
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 748
+        width: 43
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bad858e58eadea0800000000000000
+      internalID: -5847105673521943664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 757
+        width: 41
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e229da13357b60800000000000000
+      internalID: 7743151324738545566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_7
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 759
+        width: 41
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6768d77c065854030800000000000000
+      internalID: 3478332937923823222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_8
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 766
+        width: 43
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044c70e74605ddfc0800000000000000
+      internalID: -3468527745464024000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_9
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 752
+        width: 47
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8176be362c27ac50800000000000000
+      internalID: 6676353515372573071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_10
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 424
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ba9e03911f6e10800000000000000
+      internalID: 2192990866855604499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 421
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0493fb5be672140800000000000000
+      internalID: 4694842863433367749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_12
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 407
+        width: 48
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c7b32079b739540800000000000000
+      internalID: 5013486698701224983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_13
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 410
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4d27b9b10d644d0800000000000000
+      internalID: -3150602072308394782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_14
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 416
+        width: 43
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccfbe47db113d0f0800000000000000
+      internalID: -1093510779112784689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 102
+        width: 39
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d678785dc541730800000000000000
+      internalID: 3968899243791838476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_16
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 104
+        width: 37
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762667774977f7b40800000000000000
+      internalID: 5440198354429960807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_17
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 104
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aa1e08a7a9d3ae0800000000000000
+      internalID: -1567927244316104167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_18
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 104
+        width: 37
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1a3367c58ef7f90800000000000000
+      internalID: -6953583815819025991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Body_067_19
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 104
+        width: 37
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef54aa706a6e169c0800000000000000
+      internalID: -3935610998577543682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Jump_Body_067_0: -3186206618411396206
+      Jump_Body_067_1: -2682907546154830580
+      Jump_Body_067_10: 2192990866855604499
+      Jump_Body_067_11: 4694842863433367749
+      Jump_Body_067_12: 5013486698701224983
+      Jump_Body_067_13: -3150602072308394782
+      Jump_Body_067_14: -1093510779112784689
+      Jump_Body_067_15: 3968899243791838476
+      Jump_Body_067_16: 5440198354429960807
+      Jump_Body_067_17: -1567927244316104167
+      Jump_Body_067_18: -6953583815819025991
+      Jump_Body_067_19: -3935610998577543682
+      Jump_Body_067_2: 3486248760221547212
+      Jump_Body_067_3: 4149518582137172325
+      Jump_Body_067_4: 2878496813082965922
+      Jump_Body_067_5: -5847105673521943664
+      Jump_Body_067_6: 7743151324738545566
+      Jump_Body_067_7: 3478332937923823222
+      Jump_Body_067_8: -3468527745464024000
+      Jump_Body_067_9: 6676353515372573071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

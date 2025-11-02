@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 7eee41f2105bd9d4fbff3b737a718af8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7249428687628017860
+    second: planks-Spritesheet_0
+  - first:
+      213: 7517105200063801165
+    second: planks-Spritesheet_1
+  - first:
+      213: 7989936934726247918
+    second: planks-Spritesheet_2
+  - first:
+      213: -134694497858446593
+    second: planks-Spritesheet_3
+  - first:
+      213: -4150759836384960915
+    second: planks-Spritesheet_4
+  - first:
+      213: -2338859220453790737
+    second: planks-Spritesheet_5
+  - first:
+      213: -7143864835639753050
+    second: planks-Spritesheet_6
+  - first:
+      213: -6301890500408858663
+    second: planks-Spritesheet_7
+  - first:
+      213: 6791612294470513077
+    second: planks-Spritesheet_8
+  - first:
+      213: -6872915631429822304
+    second: planks-Spritesheet_9
+  - first:
+      213: -8238785471157590024
+    second: planks-Spritesheet_10
+  - first:
+      213: 8646464298895658793
+    second: planks-Spritesheet_11
+  - first:
+      213: 4024329473307120409
+    second: planks-Spritesheet_12
+  - first:
+      213: -7479955087443150640
+    second: planks-Spritesheet_13
+  - first:
+      213: -1380630165945050759
+    second: planks-Spritesheet_14
+  - first:
+      213: -1092849188296297342
+    second: planks-Spritesheet_15
+  - first:
+      213: -3809256172273753526
+    second: planks-Spritesheet_16
+  - first:
+      213: -1329297183479333522
+    second: planks-Spritesheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 220
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: planks-Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1624
+        width: 482
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fd769840bd46b90800000000000000
+      internalID: -7249428687628017860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1628
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476b052a5f125860800000000000000
+      internalID: 7517105200063801165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1581
+        width: 502
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5a1244f45f1ee60800000000000000
+      internalID: 7989936934726247918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1067
+        width: 999
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa92fd5118712ef0800000000000000
+      internalID: -134694497858446593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1055
+        width: 1002
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ed054abe98566c0800000000000000
+      internalID: -4150759836384960915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1489
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb64394ee3ba8fd0800000000000000
+      internalID: -2338859220453790737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 1439
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6c94428c4ebdc90800000000000000
+      internalID: -7143864835639753050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1078
+        width: 489
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a8bd8aff2b88a0800000000000000
+      internalID: -6301890500408858663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1055
+        width: 524
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b13718f567a04e50800000000000000
+      internalID: 6791612294470513077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 482
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a85561c5af7e90a0800000000000000
+      internalID: -6872915631429822304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 628
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7a003d344f9ad80800000000000000
+      internalID: -8238785471157590024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 581
+        width: 502
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc5ca08796ef770800000000000000
+      internalID: 8646464298895658793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 999
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9131b9b855a49d730800000000000000
+      internalID: 4024329473307120409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 55
+        width: 1002
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8331d7a7cd13890800000000000000
+      internalID: -7479955087443150640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 489
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97918a0dd2407dce0800000000000000
+      internalID: -1380630165945050759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1999
+        y: 439
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2847682147b65d0f0800000000000000
+      internalID: -1092849188296297342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 78
+        width: 489
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42a82191bdc22bc0800000000000000
+      internalID: -3809256172273753526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: planks-Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 55
+        width: 524
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d79c921436d8de0800000000000000
+      internalID: -1329297183479333522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      planks-Spritesheet_0: -7249428687628017860
+      planks-Spritesheet_1: 7517105200063801165
+      planks-Spritesheet_10: -8238785471157590024
+      planks-Spritesheet_11: 8646464298895658793
+      planks-Spritesheet_12: 4024329473307120409
+      planks-Spritesheet_13: -7479955087443150640
+      planks-Spritesheet_14: -1380630165945050759
+      planks-Spritesheet_15: -1092849188296297342
+      planks-Spritesheet_16: -3809256172273753526
+      planks-Spritesheet_17: -1329297183479333522
+      planks-Spritesheet_2: 7989936934726247918
+      planks-Spritesheet_3: -134694497858446593
+      planks-Spritesheet_4: -4150759836384960915
+      planks-Spritesheet_5: -2338859220453790737
+      planks-Spritesheet_6: -7143864835639753050
+      planks-Spritesheet_7: -6301890500408858663
+      planks-Spritesheet_8: 6791612294470513077
+      planks-Spritesheet_9: -6872915631429822304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

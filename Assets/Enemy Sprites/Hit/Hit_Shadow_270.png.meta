@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: d465b1efcfb9f1946afe236c682c6b9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1604343055243269629
+    second: Hit_Shadow_270_0
+  - first:
+      213: 126586059387884935
+    second: Hit_Shadow_270_1
+  - first:
+      213: -666843278939107988
+    second: Hit_Shadow_270_2
+  - first:
+      213: -2640932410927988634
+    second: Hit_Shadow_270_3
+  - first:
+      213: -7001788138262900178
+    second: Hit_Shadow_270_4
+  - first:
+      213: 5700188316201790551
+    second: Hit_Shadow_270_5
+  - first:
+      213: 6511619438238942964
+    second: Hit_Shadow_270_6
+  - first:
+      213: 3033639622195418164
+    second: Hit_Shadow_270_7
+  - first:
+      213: 6382513598852742918
+    second: Hit_Shadow_270_8
+  - first:
+      213: 6723740229912134906
+    second: Hit_Shadow_270_9
+  - first:
+      213: 7995553552974782833
+    second: Hit_Shadow_270_10
+  - first:
+      213: -2962308877062319091
+    second: Hit_Shadow_270_11
+  - first:
+      213: 7249067099033312861
+    second: Hit_Shadow_270_12
+  - first:
+      213: 8105185139956957960
+    second: Hit_Shadow_270_13
+  - first:
+      213: -2523993076889082362
+    second: Hit_Shadow_270_14
+  - first:
+      213: -8366920535062867426
+    second: Hit_Shadow_270_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hit_Shadow_270_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1057
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d3a13285c34610800000000000000
+      internalID: 1604343055243269629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1060
+        width: 83
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785d45fa959b1c100800000000000000
+      internalID: 126586059387884935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_2
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1066
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4af52295eeb6f0800000000000000
+      internalID: -666843278939107988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_3
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1062
+        width: 131
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66042dae6f5895bd0800000000000000
+      internalID: -2640932410927988634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 740
+        width: 136
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22db4a09c6a4de90800000000000000
+      internalID: -7001788138262900178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_5
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 744
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c2a0c92132b1f40800000000000000
+      internalID: 5700188316201790551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_6
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 746
+        width: 133
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6c2c8016bed5a50800000000000000
+      internalID: 6511619438238942964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_7
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 745
+        width: 130
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4341289d927a91a20800000000000000
+      internalID: 3033639622195418164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_8
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 425
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fb7b95d4e339850800000000000000
+      internalID: 6382513598852742918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 425
+        width: 115
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af48aed7d168f4d50800000000000000
+      internalID: 6723740229912134906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_10
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 426
+        width: 106
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171acab1899e5fe60800000000000000
+      internalID: 7995553552974782833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_11
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 423
+        width: 95
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04d6b375c3c3e6d0800000000000000
+      internalID: -2962308877062319091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_12
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 101
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1ade8e1cd99460800000000000000
+      internalID: 7249067099033312861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_13
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 99
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803c8e111f66b7070800000000000000
+      internalID: 8105185139956957960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 97
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6062b745ba9f8fcd0800000000000000
+      internalID: -2523993076889082362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hit_Shadow_270_15
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 97
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1218ab6a1ab2eb80800000000000000
+      internalID: -8366920535062867426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hit_Shadow_270_0: 1604343055243269629
+      Hit_Shadow_270_1: 126586059387884935
+      Hit_Shadow_270_10: 7995553552974782833
+      Hit_Shadow_270_11: -2962308877062319091
+      Hit_Shadow_270_12: 7249067099033312861
+      Hit_Shadow_270_13: 8105185139956957960
+      Hit_Shadow_270_14: -2523993076889082362
+      Hit_Shadow_270_15: -8366920535062867426
+      Hit_Shadow_270_2: -666843278939107988
+      Hit_Shadow_270_3: -2640932410927988634
+      Hit_Shadow_270_4: -7001788138262900178
+      Hit_Shadow_270_5: 5700188316201790551
+      Hit_Shadow_270_6: 6511619438238942964
+      Hit_Shadow_270_7: 3033639622195418164
+      Hit_Shadow_270_8: 6382513598852742918
+      Hit_Shadow_270_9: 6723740229912134906
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
