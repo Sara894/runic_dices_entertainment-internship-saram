@@ -17,6 +17,7 @@ public class Enemy : MonoBehaviour
     private States previousState;
     [SerializeField] private HealthController selfHealth;
     [SerializeField] private HealthController playerHealth;
+    [SerializeField] private Animator animator;
 
     [Header("Settings")]
     public float moveSpeed = 2f;
@@ -24,7 +25,6 @@ public class Enemy : MonoBehaviour
     public float attackRange = 1.5f;
     public float chaseStopRange = 12f;
     private int patrolIndex = 0;
-    [SerializeField] private Animator animator;
     private float lastAttackTime = 0f;
     private int patrolDirection = 1;
     private float attackCooldown = 1f;

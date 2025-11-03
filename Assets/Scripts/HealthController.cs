@@ -5,6 +5,7 @@ public class HealthController : MonoBehaviour
 {
     public bool isDead = false;
     public float health = 100;
+    public bool canTakeDamage = true;
 
     [SerializeField] Image healthBar;
 
@@ -16,6 +17,7 @@ public class HealthController : MonoBehaviour
 
     public void DecreaseHealth(float value)
     {
+        if (!canTakeDamage) return;
         if (health - value <= 0)
         {
             health = 0;
@@ -24,6 +26,19 @@ public class HealthController : MonoBehaviour
         else
         {
             health = health - value;
+            healthBar.fillAmount = health / 100f;
+        }
+    }
+
+    public void IncreaseHealth()
+    {
+        if (health + 25 >= 100)
+        {
+            health = 100;
+        }
+        else
+        {
+            health += 25;
             healthBar.fillAmount = health / 100f;
         }
     }
