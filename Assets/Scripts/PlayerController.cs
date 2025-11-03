@@ -8,6 +8,8 @@ public class PlayerController : MonoBehaviour
     public PlayerInput playerInput;
     private InputAction moveAction;
     private InputAction attackAction;
+    public InputAction pickPotion;
+    public InputAction openInventoryCanvas;
 
     [SerializeField] private Rigidbody2D rb;
     private Vector2 moveInput;
@@ -16,16 +18,19 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private HealthController selfHealthController;
     [SerializeField] private HealthController enemyHealthController;
 
-    [SerializeField] private float moveSpeed = 5f;
-    [SerializeField] private float acceleration = 10f;
+    [SerializeField] private float acceleration = 5f;
     private float attackCooldown = 0.5f;
     private float lastAttackTime;
     private bool isAttacking = false;
+
+    [SerializeField] private float moveSpeed = 3f;
 
     private void Awake()
     {
         moveAction = playerInput.actions["Move"];
         attackAction = playerInput.actions["Attack"];
+        pickPotion = playerInput.actions["Interact"];
+        openInventoryCanvas = playerInput.actions["Submit"];
     }
 
     private void OnEnable() 
@@ -82,6 +87,9 @@ public class PlayerController : MonoBehaviour
         if (!collision.gameObject.CompareTag("Enemy")) return;
 
         enemyHealthController.DecreaseHealth(10f);
-        Debug.Log("Player hit the enemy!");
+    }
+    public void AddMoveSpeed(float value)
+    {
+        moveSpeed += value;
     }
 }
