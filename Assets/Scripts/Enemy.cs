@@ -15,6 +15,8 @@ public class Enemy : MonoBehaviour
     public Transform[] patrolPoints;
     public States currentState;
     private States previousState;
+    [SerializeField] private HealthController selfHealth;
+    [SerializeField] private HealthController playerHealth;
 
     [Header("Settings")]
     public float moveSpeed = 2f;
@@ -25,6 +27,7 @@ public class Enemy : MonoBehaviour
     [SerializeField] private Animator animator;
     private float lastAttackTime = 0f;
     private int patrolDirection = 1;
+    private float attackCooldown = 1f;
 
     private void Start()
     {
@@ -33,6 +36,7 @@ public class Enemy : MonoBehaviour
 
     private void Update()
     {
+        DestroyEnemy();
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
 
         animator.SetInteger("State", (int)currentState);
@@ -105,7 +109,11 @@ public class Enemy : MonoBehaviour
 
     private void Attack()
     {
-        Debug.Log("Attacking player!");
+        if (Time.time < lastAttackTime + attackCooldown)
+            return;
+
+        lastAttackTime = Time.time;
+        playerHealth.DecreaseHealth(10f);
     }
 
     private void Flip(float direction)
@@ -116,5 +124,13 @@ public class Enemy : MonoBehaviour
         else if (direction < 0)
             scale.x = -Mathf.Abs(scale.x);
         transform.localScale = scale;
+    }
+
+    private void DestroyEnemy()
+    {
+        if (selfHealth.isDead)
+        {
+            Destroy(gameObject);
+        }
     }
 }
